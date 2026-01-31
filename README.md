@@ -1,5 +1,10 @@
 # Hash Generator & HMAC
 
+[![Try it](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools/hashgenerator)
+[![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools/hashgenerator)
+[![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools/hashgenerator)
+[![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools/hashgenerator)
+
 Hash text or files with MD5, SHA-1, SHA-256, SHA-384, SHA-512. HMAC signing, verify checksums. Client-side only.
 
 ## Features
